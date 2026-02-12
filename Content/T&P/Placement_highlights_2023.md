@@ -6,8 +6,6 @@
 ![student1](Images/placed_students_2025/1763107277162.jpg)
 
 
-\
-![student1](Images/placed_students_2025/1761207391728.jpg)
 
 \
 ![student1](Images/placed_students_2025/1761207138378.jpg)
