@@ -1,6 +1,6 @@
 ---
 
-## Industry Engagement and Recruitment Drives – 2025
+## Industry Engagement and Student Development Activities – 2025
 
 ### Events held in collaboration with Mahindra & Mahindra
 
@@ -10,7 +10,7 @@ The Training and Placement Cell organized events in collaboration with Mahindra 
 
 <br>
 
-### Major Recruitment Drives and Industry Visits – 2025
+### Industry Engagement and Student Development Activities – 2025
 
 <div align="center">
 
