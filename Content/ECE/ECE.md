@@ -106,64 +106,60 @@ Dr. Munish Rattan
 
 ## Faculty Achievements  
 
-- **Shivmanmeet Singh** validating the lectures of SWAYAM course Chemical Reaction Engineering-I in Punjabi language in July-Dec 2023.
+- **Preeti Pannu** reveiewer for 2 manuscripts in Transactions on Emerging Telecommunications Technologies in 2024.
+  
+- **Preeti Pannu** give their contribution in reviewing 2 manuscript in 2024 for Scientific Reports.
 
-- **Shivmanmeet Singh** reviewed Paper entitled "The landscape of photoaging: From bench to bedside in a bibliometric analysis" of Frontiers in PublicHealth journal which falls under SCIE journal with impact factor "5.2" in July-Dec 2023.
+- **Preeti Pannu** give their contribution in reviewing 2 manuscript in 2025 for Scientific Reports.
  
-- **Shivmanmeet Singh** Selected as organizing committee international member titled “4th international conference on advanced optics & photonics research in engineering” in China, Wuhan in Jan-June 24.
+- **Preeti Pannu** Reviewer at the 4th International Conference on Advanced Network Technologies and Intelligent Computing (ANTIC-2024) organized by the Department of Computer Science, Institute of Science, Banaras Hindu University (BHU), Varanasi, India, held in hybrid mode during December 19–21, 2024.
 
-- **Shivmanmeet Singh** Reviewed paper entitled "Adaptation of the ant colony algorithm to avoid congestion in wireless mesh networks" in International Journal of Electrical and Computer Engineering Systems under ESCIE journal with impact factor "0.8" in Jan-June 2024.
-
-- **Shivmanmeet Singh** Reviewed paper entitled "Performance Optimization of Universal Filtered Multicarrier Technique for Next Generation Communication Systems" in International Journal of Electrical and Computer Engineering Systems under ESCIE journal with impact factir "0.8" in Jan-June 2024.
-
-- **Baljeet Kaur** successfully guided two students in completing their Ph.D research in July-Dec 2023.
-
-- **Gurpurneet Kaur** received Elite and Silver for NPTEL course Fundamentals of Electronic device fabrication in July 2023.
+- **Gurpurneet Kaur** Reviewer of Manuscripts for International Conference on Digital Innovation in Electronics, Communication and AI (DIECAI-2025)
 
 
 ## Publications  (Journals)
 
-- **Narwant Singh Grewal**, Jaspreet Kaur and **Navneet Kaur**, "A Symmetrical 32 × 1 and 16 × 1 Elements Antenna Array Failure Correction with Nulls Using Brain Storm Optimization." Wireless Personal Communications (Springer).
+[1] Pankaj Palta and **Munish Rattan**, “Effects of Different Substrates for Wearable Patch Antennas at 2.45 GHz,” *Innovations in Computing*, Jan. 2025.
 
-- Puran Singh, **Munish Rattan, Narwant Singh Grewal** and Geetika Aggarwal, "Distributed Feature Matching for Robust Object Localization in Robotic Manipulation." IEEE Access.
+[2] **Navneet Kaur**, Chahat Jain, and Munish Rattan, “Optimized Design of Dual-K Spacer FinFET Using Bio-Inspired Artificial Hummingbird Algorithm at 10 nm Gate Length,” *National Academy Science Letters (Springer India)*, Jan. 2025.
 
-- Ramneet Kaur Sahota, **Preeti Pannu, Gurjot Kaur Walia, Shivmanmeet Singh**, "Investigation of MDM-WDM ISOWC System Using Hybrid Laguerre Gaussian (LG)-Hermite Gaussian (HG) Intensity Profiles." Journal of Optics.
+[3] Ram Devi, **Gurpurneet Kaur**, Ameeta Seehra, Munish Rattan, Geetika Aggarwal, and Michael Short, “Low-Power Energy-Efficient Hetero-Dielectric Gate-All-Around MOSFETs: Enablers for Sustainable Smart City Technology,” *Energies*, Mar. 2025.
 
-- Rajan Vohra, Kunwar Partap Singh, Jupinder Kaur, Vishal Jagota, Jyoti Bhola, "Electronic Properties of ZnO Nanowires: A First-Principles Analysis Using Two-Probe Methodology." International Journal of Nanoelectronics and Materials (IJNeaM).
+[4] Ramneet Kaur Sahota, **Preeti Pannu**, **Gurjot Kaur Walia**, **Shivmanmeet Singh**, “Investigation of MDM-WDM ISOWC System Using Hybrid Laguerre Gaussian (LG)-Hermite Gaussian (HG) Intensity Profiles,” *Journal of Optics*, May 2025.
 
-- Daljit Singh, "Immune Inspired Cyber Defence – An Intrusion Detection Scheme." Journal of Emerging Technologies and Innovative Research.
+[5] **Daljit Singh**, “Harnessing Immune Mechanisms for Cyber Security – An Intrusion Detection Approach,” *International Journal of Scientific Development and Research*, May 2025.
 
-- Daljit Singh, "Harnessing Immune Mechanisms for Cyber Security – An Intrusion Detection Approach." International Journal of Scientific Development and Research.
+[6] **Gurpurneet Kaur** *et al*., “Allocation of Stocks in the Portfolio Using Puma Optimizer,” *International Journal of Creative Research Thoughts*, May 2025.
 
-- **Harminder Kaur**, Baljeet Kaur, Manjit Singh Bhamrah, "Flat Top Optical Multicarrier Generation for Ultra Dense Asymmetrical Radio over Fiber System." Optoelectronics and Advanced Materials – Rapid Communications.
+[7] **Harminder Kaur**, **Baljeet Kaur**, and Manjit Singh Bhamrah, “Flat Top Optical Multicarrier Generation for Ultra Dense Asymmetrical Radio over Fiber System,” *Optoelectronics and Advanced Materials – Rapid Communications*, June 2024.
 
-- Harmandeep Kaur, **Harleen Kaur, Gurleen Kaur, Shivmanmeet Singh**, "Inclusion of Digital Electronics in Computer Applications: Architectures, Advancements, and Integration." International Journal of Research and Analytical Reviews (IJRAR).
+[8] Harmandeep Kaur, **Harleen Kaur**, **Gurleen Kaur**, **Shivmanmeet Singh**, “Inclusion of Digital Electronics in Computer Applications: Architectures, Advancements, and Integration,” *International Journal of Research and Analytical Reviews (IJRAR)*, June 2025.
 
-**Gurleen Kaur**, "A Comprehensive Review of Deep Learning Techniques and Its Applications." International Journal of Creative Research Thoughts (IJCRT).
+[9] **Gurleen Kaur**, “A Comprehensive Review of Deep Learning Techniques and Its Applications,” *International Journal of Creative Research Thoughts (IJCRT)*, June 2025.
 
-**Gurleen Kaur**, "Computer Applications in Electronics: Integration, Advancements, and Future Prospects." International Journal of Research and Analytical Reviews (IJRAR).
+[10] **Gurleen Kaur**, “Computer Applications in Electronics: Integration, Advancements, and Future Prospects,” *International Journal of Research and Analytical Reviews (IJRAR)*, June 2025.
 
-**Gurleen Kaur**, "Blockchain for Internet of Things: A Survey." International Journal of Research and Analytical Reviews (IJRAR).
+[11] **Gurleen Kaur**, “Blockchain for Internet of Things: A Survey,” *International Journal of Research and Analytical Reviews (IJRAR)*, June 2025.
 
-**Gurleen Kaur**, "E-Waste Management System in Smart Cities." International Journal of Research and Analytical Reviews (IJRAR).
+[12] **Gurleen Kaur**, “E-Waste Management System in Smart Cities,” *International Journal of Research and Analytical Reviews (IJRAR)*, June 2025.
 
-**Gurleen Kaur**, "Smart Transport System." International Journal of Creative Research Thoughts (IJCRT).
+[13] **Gurleen Kaur**, “Smart Transport System,” *International Journal of Creative Research Thoughts (IJCRT)*, June 2025.
 
-**Gurleen Kaur**, "Data Security and Privacy." International Journal of Creative Research Thoughts (IJCRT).
+[14] **Gurleen Kaur**, “Data Security and Privacy,” *International Journal of Creative Research Thoughts (IJCRT)*, June 2025.
 
-**Gurleen Kaur**, "Impact of AI on Business and Societies in Smart Cities." International Journal of Creative Research Thoughts (IJCRT).
+[15] **Gurleen Kaur**, “Impact of AI on Business and Societies in Smart Cities,” *International Journal of Creative Research Thoughts (IJCRT)*, June 2025.
 
-Karthickmanoj, T. Sasilatha, D. Lakshmi, Vishal Goyal, Talal Taha Ali, Ajay Nautiyal, Kamal Kant Sharma, Raman Kumar, **Shivmanmeet Singh**, "Revolutionizing Agricultural Productivity with Automated Early Leaf Disease Detection System for Smart Agriculture Applications Using IoT Platform." Environment, Development and Sustainability.
+[16] **Narwant Singh Grewal**, Jaspreet Kaur, and **Navneet Kaur**, “A Symmetrical 32 × 1 and 16 × 1 Elements Antenna Array Failure Correction with Nulls Using Brain Storm Optimization,” *Wireless Personal Communications (Springer)*, July 2024.
 
-**Shivmanmeet Singh**, Harmandeep Kaur, **Preeti Pannu**, "Performance Analysis of QAM and QPSK for FSOWC System Using Machine Learning." Journal of Optics.
+[17] Karthickmanoj, T. Sasilatha, D. Lakshmi, Vishal Goyal, Talal Taha Ali, Ajay Nautiyal, Kamal Kant Sharma, Raman Kumar, and **Shivmanmeet Singh**, “Revolutionizing Agricultural Productivity with Automated Early Leaf Disease Detection System for Smart Agriculture Applications Using IoT Platform,” *Environment, Development and Sustainability*, July 2024.
 
-**Gurpurneet Kaur** et Al., "Allocation of Stocks in the Portfolio Using Puma Optimizer." International Journal of Creative Research Thoughts.
+[18] **Daljit Singh**, “Immune Inspired Cyber Defence – An Intrusion Detection Scheme,” *Journal of Emerging Technologies and Innovative Research*, July 2025.
 
-Ram Devi, **Gurpurneet Kaur, Ameeta Seehra, Munish Rattan**, Geetika Aggarwal, Michael Short, "Low-Power Energy-Efficient Hetero-Dielectric Gate-All-Around MOSFETs: Enablers for Sustainable Smart City Technology." Energies.
+[19] Puran Singh, **Munish Rattan**, **Narwant Singh Grewal**, and Geetika Aggarwal, “Distributed Feature Matching for Robust Object Localization in Robotic Manipulation,” *IEEE Access*, Oct. 2024.
 
-Pankaj Palta, **Munish Rattan**, "Effects of Different Substrates for Wearable Patch Antennas at 2.45 GHz." Innovations in Computing.
+[20] Rajan Vohra, **Kunwar Partap Singh**, Jupinder Kaur, Vishal Jagota, and Jyoti Bhola, “Electronic Properties of ZnO Nanowires: A First-Principles Analysis Using Two-Probe Methodology,” *International Journal of Nanoelectronics and Materials (IJNeaM)*, Oct. 2024.
 
-**Navneet Kaur, Chahat Jain, Munish Rattan**, "Optimized Design of Dual-K Spacer FinFET Using Bio-Inspired Artificial Hummingbird Algorithm at 10 nm Gate Length." National Academy Science Letters (Springer India).
+[21] **Shivmanmeet Singh**, Harmandeep Kaur, and **Preeti Pannu**, “Performance Analysis of QAM and QPSK for FSOWC System Using Machine Learning,” *Journal of Optics*, Oct. 2024.
 
 ## Publications  (Conferences)
 
