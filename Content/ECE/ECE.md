@@ -367,7 +367,9 @@ Dr. Munish Rattan
 -------------‐-------------------------------
 ### Visit to 5G Communication Lab
 
-![Advisor Session (Wireless Communication)](Images/WC2.jpg)
+![Advisor Session (Visit to 5G Communication Lab)](Images/PEC1.JPG)
+![Advisor Session (Visit to 5G Communication Lab)](Images/PEC2.JPG)
+![Advisor Session (Visit to 5G Communication Lab)](Images/PEC3.JPG)
 
 - <div align="jutify">The IETE Students’ Forum (ISF) organized a visit to Punjab Engineering College, Chandigarh, on March 26, 2025, to explore the 5G Communication Lab. The visit provided valuable insights into cutting-edge advancements in 5G technology and its applications .The visit to PEC , Chandigarh. It was aimed at enhancing our understanding of 5G technology and exploring the development of diverse bandwidth networks.</div>
 
