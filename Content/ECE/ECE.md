@@ -29,8 +29,8 @@ Dr. Munish Rattan
 
 
 ### Four Week Training on Project Design using Microcontroller from 5, June 2024 to 5, July 2024
-Coordinator: Dr. Gurpurneet Kaur & Dr. Shivmanmeet Singh
-Co-Coordinator: Prof. Harminder Kaur D/o Avtar Singh & Dr. Preeti Pannu
+- Coordinator: Dr. Gurpurneet Kaur & Dr. Shivmanmeet Singh
+- Co-Coordinator: Prof. Harminder Kaur D/o Avtar Singh & Dr. Preeti Pannu
 
 ![Students](Images/KKD.jpg)
 ![Students](Images/KKD1.jpg)
@@ -38,7 +38,7 @@ Co-Coordinator: Prof. Harminder Kaur D/o Avtar Singh & Dr. Preeti Pannu
 -----------------------------------------
 
 ### Four Week Training on Robotics with ML from 11, June 2024 to 11, July 2024
-Coordinator: Dr. Shivmanmeet Singh
+- Coordinator: Dr. Shivmanmeet Singh
 
 ![Students](Images/PS.jpg)
 ![Students](Images/PS1.jpg)
@@ -46,8 +46,8 @@ Coordinator: Dr. Shivmanmeet Singh
 -----------------------------------------
 
 ### Four Week Training on Advanced Simulation Techniques for PLC Automation & IoT in Embedded System from 5, June 2024 to 5, July 2024 
-Coordinator: Prof. Kuldeepak Singh, Prof. Daljit Singh
-Co-Coordinator: Prof. Kunwarpartap Singh
+- Coordinator: Prof. Kuldeepak Singh, Prof. Daljit Singh
+- Co-Coordinator: Prof. Kunwarpartap Singh
 
 ![Students](Images/SPGH.jpg)
 
@@ -67,9 +67,9 @@ Co-Coordinator: Prof. Kunwarpartap Singh
 -----------------------------------------
 
 ### Two weeks value added workshop on Hands on Training Program on Embedded systems and VLSI from 19, Feb 2025 to 5, March 2025
-Chief Coordinator: Dr. Narwant Singh Grewal
-Coordinator: Dr Munish Rattan and Dr. Baljit Kaur
-Co-Coordinator: Dr. Gurjot Kaur Walia and Dr. Preeti Pannu
+- Chief Coordinator: Dr. Narwant Singh Grewal
+- Coordinator: Dr Munish Rattan and Dr. Baljit Kaur
+- Co-Coordinator: Dr. Gurjot Kaur Walia and Dr. Preeti Pannu
 
 ![Students](Images/wwww.jpg)
 ![Students](Images/zzz1.jpg)
@@ -77,6 +77,9 @@ Co-Coordinator: Dr. Gurjot Kaur Walia and Dr. Preeti Pannu
 -----------------------------------------
 
 ### Project Design using Arduino and Raspberry Pi from 23, June 2025 to 18, July 2025
+- Coordinator: Dr. Gurpurneet Kaur & Dr. Preeti Pannu
+- Co-Coordinator: Prof. Harminder Kaur D/o Avtar Singh & Dr. Shivmanmeet Singh
+
 
 ![Students](Images/dsw11.jpeg)
 ![Students](Images/dsw22.jpeg)
