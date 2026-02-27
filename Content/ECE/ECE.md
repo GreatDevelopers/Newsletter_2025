@@ -410,7 +410,7 @@ Co-Coordinator: Dr. Gurjot Kaur Walia and Dr. Preeti Pannu
 
 ![Advisor Session (Machine)](Images/PLC2.png)
 
-- <div align="jutify"> The PLC workshop usually begins with an introductory session, where participants are briefed on the importance of PLCs in modern industrial processes on 14 Aug 2024. The session outlines how PLCs are used to automate various industrial operations, ranging from simple machine functions to complex processes involving multiple sensors and actuators. Participants are introduced to the basic architecture of PLCs, includingthe central processing unit (CPU), memory, input/output (I/O) modules, and communication interfaces.</div>
+<div align="jutify"> The PLC workshop usually begins with an introductory session, where participants are briefed on the importance of PLCs in modern industrial processes on 14 Aug 2024. The session outlines how PLCs are used to automate various industrial operations, ranging from simple machine functions to complex processes involving multiple sensors and actuators. Participants are introduced to the basic architecture of PLCs, includingthe central processing unit (CPU), memory, input/output (I/O) modules, and communication interfaces.</div>
 
 -----------------------------------------
 ### Workshop on Cyber Security with Shell Scripting Automation 
@@ -421,7 +421,7 @@ Co-Coordinator: Dr. Gurjot Kaur Walia and Dr. Preeti Pannu
 
 ![Advisor Session (Machine)](Images/CS2.jpeg)
 
-- <div align="jutify">This event was organized on 3rd September 2024. The expert talk was given by Mr. Ansh Aneja and his team members. Sir and his team shared great knowledge on the given topic. He demonstrated multiple experimentations and projects related to the topic. This lecture was a really resourceful one. The experiments actually give an insightful experience on how things in the industry work.</div>
+<div align="jutify">This event was organized on 3rd September 2024. The expert talk was given by Mr. Ansh Aneja and his team members. Sir and his team shared great knowledge on the given topic. He demonstrated multiple experimentations and projects related to the topic. This lecture was a really resourceful one. The experiments actually give an insightful experience on how things in the industry work.</div>
 -----------------------------------------
 ### Hands on Experience on Soldering and Desoldering
 
@@ -500,7 +500,7 @@ Co-Coordinator: Dr. Gurjot Kaur Walia and Dr. Preeti Pannu
 
 ![Mobile chipset repairing](Images/cs2.JPG)
 
-- <div align="jutify"> The IETE Students’ Forum (ISF) at Guru Nanak Dev Engineering College, Ludhiana,hosted a practical and informative workshop on Mobile Chipset Repairing and Software Automation on 11th April 2025.The session was expertly conducted by Mr. Harjot and Mr Abishek, specialists in mobile chipset repair and embedded systems. He provided an in-depth demonstration of chip-level repair techniques, showcasing the use of professional equipment such as digital microscopes, and diagnostic software. A significant portion of the workshop focused on the Apple A13 Bionic chipset, where participants examined its architecture, identified critical components on the motherboard, and explored rework methods commonly applied in modern smartphone servicing. In addition, the workshop covered practical aspects of soldering and desoldering components on the logic board, along with guidance on how iPhone servicing is professionally carried out, including common troubleshooting workflows and repair practices followed in industry labs.</div>
+<div align="jutify"> The IETE Students’ Forum (ISF) at Guru Nanak Dev Engineering College, Ludhiana,hosted a practical and informative workshop on Mobile Chipset Repairing and Software Automation on 11th April 2025.The session was expertly conducted by Mr. Harjot and Mr Abishek, specialists in mobile chipset repair and embedded systems. He provided an in-depth demonstration of chip-level repair techniques, showcasing the use of professional equipment such as digital microscopes, and diagnostic software. A significant portion of the workshop focused on the Apple A13 Bionic chipset, where participants examined its architecture, identified critical components on the motherboard, and explored rework methods commonly applied in modern smartphone servicing. In addition, the workshop covered practical aspects of soldering and desoldering components on the logic board, along with guidance on how iPhone servicing is professionally carried out, including common troubleshooting workflows and repair practices followed in industry labs. </div>
 -----------------------------------------
 ### Guess-a-Graphy
 
