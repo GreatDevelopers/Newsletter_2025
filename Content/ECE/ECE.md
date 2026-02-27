@@ -59,6 +59,12 @@ Co-Coordinator: Prof. Kunwarpartap Singh
 
 -----------------------------------------
 
+### GNE's APEX 2024: Project demonstration and display by ECE students
+
+![Students](Images/tdc.jpg)
+
+-----------------------------------------
+
 ### Two weeks value added workshop on Hands on Training Program on Embedded systems and VLSI from 19, Feb 2025 to 5, March 2025
 Chief Coordinator: Dr. Narwant Singh Grewal
 Coordinator: Dr Munish Rattan and Dr. Baljit Kaur
