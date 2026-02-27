@@ -61,7 +61,8 @@ Co-Coordinator: Prof. Kunwarpartap Singh
 
 ### GNE's APEX 2024: Project demonstration and display by ECE students
 
-![Students](Images/tdc.jpg)
+![Students](Images/apd1.jpeg)
+![Students](Images/apd2.jpeg)
 
 -----------------------------------------
 
