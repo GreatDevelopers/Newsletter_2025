@@ -272,47 +272,6 @@ Dr. Munish Rattan
 - <div align="jutify"> The PLC workshop usually begins with an introductory session, where participants are briefed on the importance of PLCs in modern industrial processes on 14 Aug 2024. The session outlines how PLCs are used to automate various industrial operations, ranging from simple machine functions to complex processes involving multiple sensors and actuators. Participants are introduced to the basic architecture of PLCs, includingthe central processing unit (CPU), memory, input/output (I/O) modules, and communication interfaces.</div>
 
 -----------------------------------------
-
-### Technova
-
-![Advisor Session (Wireless Communication)](Images/WC2.jpg)
-
-- <div align="jutify">ISF organized a Techno event based on Project Exhibition named “Technova” on 25 November, 2024. During the event, participants had the opportunity to display their projects and were required to present and explain their work to both students and judges. This provided them with a platform to
-showcase their ideas, strengthen their communication skills, and receive constructive feedback from the judges. </div>
-
------------------------------------------
-### Electrified Quizzer
-
-![Advisor Session (Wireless Communication)](Images/WC2.jpg)
-
-- <div align="jutify">ISF hosted a Fun-Techno event titled "Electrified Quizzers" on February 3, 2025. During this event, participants were grouped into teams of two. In the first round, the teams were asked to answer 30 electronics-based questions, with a time limitof 10 seconds per question. The top five teams were selected to proceed to the second round, where participants competed individually to solve 20 questions,again with a 10-second time limit per question. From this round, the top five students were chosen and invited to the final round, where they had to answer 10 questions. This event was designed to challenge students' knowledge and quick thinking while promoting a spirit of friendly competition.</div>
-
------------------------------------------
-### Visit to 5G Communication Lab
-
-![Advisor Session (Wireless Communication)](Images/WC2.jpg)
-
-- <div align="jutify">The IETE Students’ Forum (ISF) organized a visit to Punjab Engineering College, Chandigarh, on March 26, 2025, to explore the 5G Communication Lab. The visit provided valuable insights into cutting-edge advancements in 5G technology and its applications .The visit to PEC , Chandigarh. It was aimed at enhancing our understanding of 5G technology and exploring the development of diverse bandwidth networks.</div>
-
------------------------------------------
-### Guess-a-Graphy
-
-![Advisor Session (Wireless Communication)](Images/WC2.jpg)
-
-- <div align="jutify">ISF organise a fun event named” Guess-a-Graphy” based on general knowledge on 23 of April 2025.Guess-a-Graphy was a thrilling and intellectually engaging quiz competition that tested participants’ knowledge of the corporate world through three dynamic rounds.</div>
-
--------------‐-------------------------------
-
-### Workshop on Mobile chipset repairing
-
-![Emerging Technologies](Images/ETposter.png)
-
-![Emerging Technologies](Images/ET1.jpeg)
-
-- <div align="jutify"> The IETE Students’ Forum (ISF) at Guru Nanak Dev Engineering College, Ludhiana,hosted a practical and informative workshop on Mobile Chipset Repairing and Software Automation on 11th April 2025.The session was expertly conducted by Mr. Harjot and Mr Abishek, specialists in mobile chipset repair and embedded systems. He provided an in-depth demonstration of chip-level repair techniques, showcasing the use of professional equipment such as digital microscopes, and diagnostic software. A significant portion of the workshop focused on the Apple A13 Bionic chipset, where participants examined its architecture, identified critical components on the motherboard, and explored rework methods commonly applied in modern smartphone servicing. In addition, the workshop covered practical aspects of soldering and desoldering components on the logic board, along with guidance on how iPhone servicing is professionally carried out, including common troubleshooting workflows and repair practices followed in industry labs.</div>
-
--------------------------------------------
-
 ### Workshop on Cyber Security with Shell Scripting Automation 
 
 ![Advisor Session (Machine)](Images/CSposter.png)
@@ -322,8 +281,7 @@ showcase their ideas, strengthen their communication skills, and receive constru
 ![Advisor Session (Machine)](Images/CS2.jpeg)
 
 - <div align="jutify">This event was organized on 3rd September 2024. The expert talk was given by Mr. Ansh Aneja and his team members. Sir and his team shared great knowledge on the given topic. He demonstrated multiple experimentations and projects related to the topic. This lecture was a really resourceful one. The experiments actually give an insightful experience on how things in the industry work.</div>
-
---------------------------------------------
+-----------------------------------------
 ### Hands on Experience on Soldering and Desoldering
 
 ![Advisor Session (Machine)](Images/SDposter.png)
@@ -333,6 +291,7 @@ showcase their ideas, strengthen their communication skills, and receive constru
 ![Advisor Session (Machine)](Images/SD2.jpeg)
 
 - <div align="jutify"> In alignment with this vision, ISF hosted a knowledge-based event on October 11, 2024, featuring a lecture by Er. Shivmanmeet Singh, a distinguished professor from the Electronics and Communication Engineering Department. The session focused on the fundamentals of soldering and desoldering, providing students with comprehensive insights into these essential electronic assembly techniques. During the event, the professor delivered an in-depth lecture covering the principles, tools, and best practices of soldering and desoldering. Following the theoretical session, students had the opportunity to apply their learning through a hands-on demonstration, further reinforcing their understanding of the concepts. This event served as a valuable platform for students to gain practical exposure and enhance their technical proficiency in electronics manufacturing and repair.</div>
+
 ----------------------------------------------
 ### Digital Artistry
 
@@ -365,7 +324,6 @@ showcase their ideas, strengthen their communication skills, and receive constru
 ![Advisor Session (Machine)](Images/PD2.jpeg)
 
 - <div align="jutify">This event was held on 29th October 2024.This competition was held for students to make them familiar with the topics like How to access McGraw Hill ebooks, How to use DELNET, How to access EBSCO Journals, How to access IEEE Journals, How to search a book in WebOpac ; making the students familiar with the library resources. The students were awarded with three positions according to their posters.</div>
-
 ---------------------------------------------
 ### 2 Day’s Workshop on 3D Printing : Peer to Peer Learning 
 
@@ -376,8 +334,43 @@ showcase their ideas, strengthen their communication skills, and receive constru
 ![Advisor Session (Machine)](Images/3DP2.jpeg)
 
 - <div align="jutify">This event was held on 11th and 13th November 2024. This workshop was coordinated by Dr. Gurpurneet Kaur and co-coordinated by Prof. Shivmanmeet Singh and the student demonstrator was Anmol Kumar Srivastav(Co-Convenor ISF).The event on day 1 was familiarizing the participants with the topic and day 2 highlighted actually printing in the 3D printing.</div>
-
 ---------------------------------------------
+### Technova
+
+![Advisor Session (Wireless Communication)](Images/WC2.jpg)
+
+- <div align="jutify">ISF organized a Techno event based on Project Exhibition named “Technova” on 25 November, 2024. During the event, participants had the opportunity to display their projects and were required to present and explain their work to both students and judges. This provided them with a platform to
+showcase their ideas, strengthen their communication skills, and receive constructive feedback from the judges. </div>
+-----------------------------------------
+### Electrified Quizzer
+
+![Advisor Session (Wireless Communication)](Images/WC2.jpg)
+
+- <div align="jutify">ISF hosted a Fun-Techno event titled "Electrified Quizzers" on February 3, 2025. During this event, participants were grouped into teams of two. In the first round, the teams were asked to answer 30 electronics-based questions, with a time limitof 10 seconds per question. The top five teams were selected to proceed to the second round, where participants competed individually to solve 20 questions,again with a 10-second time limit per question. From this round, the top five students were chosen and invited to the final round, where they had to answer 10 questions. This event was designed to challenge students' knowledge and quick thinking while promoting a spirit of friendly competition.</div>
+
+-----------------------------------------
+### Workshop on Mobile chipset repairing
+
+![Emerging Technologies](Images/ETposter.png)
+
+![Emerging Technologies](Images/ET1.jpeg)
+
+- <div align="jutify"> The IETE Students’ Forum (ISF) at Guru Nanak Dev Engineering College, Ludhiana,hosted a practical and informative workshop on Mobile Chipset Repairing and Software Automation on 11th April 2025.The session was expertly conducted by Mr. Harjot and Mr Abishek, specialists in mobile chipset repair and embedded systems. He provided an in-depth demonstration of chip-level repair techniques, showcasing the use of professional equipment such as digital microscopes, and diagnostic software. A significant portion of the workshop focused on the Apple A13 Bionic chipset, where participants examined its architecture, identified critical components on the motherboard, and explored rework methods commonly applied in modern smartphone servicing. In addition, the workshop covered practical aspects of soldering and desoldering components on the logic board, along with guidance on how iPhone servicing is professionally carried out, including common troubleshooting workflows and repair practices followed in industry labs.</div>
+-----------------------------------------
+### Guess-a-Graphy
+
+![Advisor Session (Wireless Communication)](Images/WC2.jpg)
+
+- <div align="jutify">ISF organise a fun event named” Guess-a-Graphy” based on general knowledge on 23 of April 2025.Guess-a-Graphy was a thrilling and intellectually engaging quiz competition that tested participants’ knowledge of the corporate world through three dynamic rounds.</div>
+
+-------------‐-------------------------------
+### Visit to 5G Communication Lab
+
+![Advisor Session (Wireless Communication)](Images/WC2.jpg)
+
+- <div align="jutify">The IETE Students’ Forum (ISF) organized a visit to Punjab Engineering College, Chandigarh, on March 26, 2025, to explore the 5G Communication Lab. The visit provided valuable insights into cutting-edge advancements in 5G technology and its applications .The visit to PEC , Chandigarh. It was aimed at enhancing our understanding of 5G technology and exploring the development of diverse bandwidth networks.</div>
+
+-------------------------------------------
 ### TechNova- Project Exhibition
 
 ![Advisor Session (Machine)](Images/TNposter.jpeg)
