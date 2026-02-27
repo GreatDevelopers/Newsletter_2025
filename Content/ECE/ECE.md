@@ -382,6 +382,16 @@ Dr. Munish Rattan
 | 35 | 2104412 | Pushpraj Dwevedi | CWEB Consultant, Mohali | 15k Per Month |
 | 36 | 2104453 | Satnam Singh | Fast Way | 30000 |
 
+# List of Consultancy by ECE Faculty  
+## Session 2024-2025
+
+| S. No. | Name of Faculty | Name of Project | Funding Agency | Category | Amount (Rupees) | Duration | Date of Starting & Completion | Remarks |
+|--------|------------------|------------------|----------------|----------|------------------|----------|-------------------------------|----------|
+| 1 | Gurpurneet Kaur, Harminder Kaur D/o S. Avtar Singh, Preeti Pannu, Shivmanmeet Singh | Project Design Using Microcontrollers | Private (Testing and Consultancy, GNDEC, Ludhiana) | Consultancy |  | Four Weeks | June 2024-July, 2024 | Completed |
+| 2 | Kuldeepak Singh, Daljit Singh, Kunwar Partap Singh | Advanced Simulation Techniques for PLC Automation and IoT in Embedded System |  | Consultancy |  |  |  |  |
+| 3 | Shivmanmeet Singh | Rebotics with ML |  | Consultancy |  |  |  |  |
+
+**Note:** The total combined consultancy fund for all three projects is **Rs. 2,94,000**.
 ## Student's Corner  
 
 #### - Student's Achievements
