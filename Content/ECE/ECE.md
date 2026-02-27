@@ -91,7 +91,132 @@ Dr. Munish Rattan
 
 -----------------------------------------
 
+## IETE STUDENT FORUM
 
+- The events were organized under the guidance of:
+
+-Prof. Shivmanmeet Singh (ISF Secretary)
+
+-----------------------------------------
+
+### Project Exhibition
+## Expert Lecture on PLC for Industrial Applications
+
+![Advisor Session (Machine)](Images/PLCposter.png)
+
+![Advisor Session (Machine)](Images/PLC1.png)
+
+![Advisor Session (Machine)](Images/PLC2.png)
+
+<div align="jutify"> The PLC workshop usually begins with an introductory session, where participants are briefed on the importance of PLCs in modern industrial processes on 14 Aug 2024. The session outlines how PLCs are used to automate various industrial operations, ranging from simple machine functions to complex processes involving multiple sensors and actuators. Participants are introduced to the basic architecture of PLCs, includingthe central processing unit (CPU), memory, input/output (I/O) modules, and communication interfaces.</div>
+
+-----------------------------------------
+### Workshop on Cyber Security with Shell Scripting Automation 
+
+![Advisor Session (Machine)](Images/CSposter.png)
+
+![Advisor Session (Machine)](Images/CS1.jpeg)
+
+![Advisor Session (Machine)](Images/CS2.jpeg)
+
+<div align="jutify">This event was organized on 3rd September 2024. The expert talk was given by Mr. Ansh Aneja and his team members. Sir and his team shared great knowledge on the given topic. He demonstrated multiple experimentations and projects related to the topic. This lecture was a really resourceful one. The experiments actually give an insightful experience on how things in the industry work.</div>
+-----------------------------------------
+### Hands on Experience on Soldering and Desoldering
+
+![Advisor Session (Machine)](Images/SDposter.png)
+
+![Advisor Session (Machine)](Images/SD1.jpeg)
+
+![Advisor Session (Machine)](Images/SD2.jpeg)
+
+- <div align="jutify"> In alignment with this vision, ISF hosted a knowledge-based event on October 11, 2024, featuring a lecture by Er. Shivmanmeet Singh, a distinguished professor from the Electronics and Communication Engineering Department. The session focused on the fundamentals of soldering and desoldering, providing students with comprehensive insights into these essential electronic assembly techniques. During the event, the professor delivered an in-depth lecture covering the principles, tools, and best practices of soldering and desoldering. Following the theoretical session, students had the opportunity to apply their learning through a hands-on demonstration, further reinforcing their understanding of the concepts. This event served as a valuable platform for students to gain practical exposure and enhance their technical proficiency in electronics manufacturing and repair.</div>
+
+----------------------------------------------
+### Digital Artistry
+
+![Advisor Session (Machine)](Images/DAposter.png)
+
+![Advisor Session (Machine)](Images/DA1.jpeg)
+
+![Advisor Session (Machine)](Images/DA2.jpeg)
+
+- <div align="jutify">This event was organized on 14th October 2024.In this event, team was created of two members each. Further; they were provided with a slogan. They had to present the slogan in the form of a poster. Also; they also had to present their poster and explain it and the presentation should be very appropriate to the slogan.</div>
+
+----------------------------------------------
+### Two Day Workshop : Digital Electronics and VHDL: From theory to Practice
+
+![Advisor Session (Machine)](Images/2DWposter.jpeg)
+
+![Advisor Session (Machine)](Images/2DW1.jpeg)
+
+![Advisor Session (Machine)](Images/2DW2.jpeg)
+
+- <div align="jutify">This event was organized on 28th and 29th October 2024. The Workshop Coordinator was Er. KuldeepakSingh . The expert talk was given by Dr. Gurjot Kaur Walia and Er. Kunwar Partap Singh. The topics that were covered were: Combinational Circuit Design and its real life applications, Signal Conversions : Analog and Digital Signals and Programming and Design using VHDL.</div>
+
+---------------------------------------------
+### Poster Designing Competition in collab with Central Library
+
+![Advisor Session (Machine)](Images/PDposter.jpeg)
+
+![Advisor Session (Machine)](Images/PD1.jpeg)
+
+![Advisor Session (Machine)](Images/PD2.jpeg)
+
+- <div align="jutify">This event was held on 29th October 2024.This competition was held for students to make them familiar with the topics like How to access McGraw Hill ebooks, How to use DELNET, How to access EBSCO Journals, How to access IEEE Journals, How to search a book in WebOpac ; making the students familiar with the library resources. The students were awarded with three positions according to their posters.</div>
+---------------------------------------------
+### 2 Day’s Workshop on 3D Printing : Peer to Peer Learning 
+
+![Advisor Session (Machine)](Images/3DPposter.jpeg)
+
+![Advisor Session (Machine)](Images/3DP1.jpeg)
+
+![Advisor Session (Machine)](Images/3DP2.jpeg)
+
+- <div align="jutify">This event was held on 11th and 13th November 2024. This workshop was coordinated by Dr. Gurpurneet Kaur and co-coordinated by Prof. Shivmanmeet Singh and the student demonstrator was Anmol Kumar Srivastav(Co-Convenor ISF).The event on day 1 was familiarizing the participants with the topic and day 2 highlighted actually printing in the 3D printing.</div>
+---------------------------------------------
+### Technova
+
+![Advisor Session (Machine)](Images/TNposter.jpeg)
+
+![Advisor Session (Machine)](Images/TN1.jpg)
+
+![Advisor Session (Machine)](Images/TN2.jpg)
+
+- <div align="jutify">ISF organized a Techno event based on Project Exhibition named “Technova” on 25 November, 2024. During the event, participants had the opportunity to display their projects and were required to present and explain their work to both students and judges. This provided them with a platform to showcase their ideas, strengthen their communication skills, and receive constructive feedback from the judges. </div
+
+-----------------------------------------
+### Electrified Quizzer
+
+![Electrified Quizzer](Images/EQ.JPG)
+
+- <div align="jutify">ISF hosted a Fun-Techno event titled "Electrified Quizzers" on February 3, 2025. During this event, participants were grouped into teams of two. In the first round, the teams were asked to answer 30 electronics-based questions, with a time limitof 10 seconds per question. The top five teams were selected to proceed to the second round, where participants competed individually to solve 20 questions,again with a 10-second time limit per question. From this round, the top five students were chosen and invited to the final round, where they had to answer 10 questions. This event was designed to challenge students' knowledge and quick thinking while promoting a spirit of friendly competition.</div>
+
+-----------------------------------------
+### Workshop on Mobile chipset repairing
+
+![Mobile chipset repairing](Images/cs1.JPG)
+
+![Mobile chipset repairing](Images/cs2.JPG)
+
+<div align="jutify"> The IETE Students’ Forum (ISF) at Guru Nanak Dev Engineering College, Ludhiana,hosted a practical and informative workshop on Mobile Chipset Repairing and Software Automation on 11th April 2025.The session was expertly conducted by Mr. Harjot and Mr Abishek, specialists in mobile chipset repair and embedded systems. He provided an in-depth demonstration of chip-level repair techniques, showcasing the use of professional equipment such as digital microscopes, and diagnostic software. A significant portion of the workshop focused on the Apple A13 Bionic chipset, where participants examined its architecture, identified critical components on the motherboard, and explored rework methods commonly applied in modern smartphone servicing. In addition, the workshop covered practical aspects of soldering and desoldering components on the logic board, along with guidance on how iPhone servicing is professionally carried out, including common troubleshooting workflows and repair practices followed in industry labs. </div>
+-----------------------------------------
+### Guess-a-Graphy
+
+![Advisor Session (Guess-a-Graphy)](Images/gag2.JPG)
+![Advisor Session (Guess-a-Graphy)](Images/gag1.JPG)
+
+- <div align="jutify">ISF organise a fun event named” Guess-a-Graphy” based on general knowledge on 23 of April 2025.Guess-a-Graphy was a thrilling and intellectually engaging quiz competition that tested participants’ knowledge of the corporate world through three dynamic rounds.</div>
+
+-------------‐-------------------------------
+### Visit to 5G Communication Lab
+
+![Advisor Session (Visit to 5G Communication Lab)](Images/PEC1.JPG)
+![Advisor Session (Visit to 5G Communication Lab)](Images/PEC2.JPG)
+![Advisor Session (Visit to 5G Communication Lab)](Images/PEC3.JPG)
+
+- <div align="jutify">The IETE Students’ Forum (ISF) organized a visit to Punjab Engineering College, Chandigarh, on March 26, 2025, to explore the 5G Communication Lab. The visit provided valuable insights into cutting-edge advancements in 5G technology and its applications .The visit to PEC , Chandigarh. It was aimed at enhancing our understanding of 5G technology and exploring the development of diverse bandwidth networks.</div>
+
+-------------------------------------------
 ## Faculty Achievements  
 
 - **Shivmanmeet Singh** has completed Ph.D in Jan 2025 from GNDEC, Ludhiana (Under Automonous Status).
@@ -305,7 +430,7 @@ Dr. Munish Rattan
 - **Gurpurneet Kaur**, delivered expert lecture on Counter Design using HDL, at SLIET, Longowal, 25/11/2024 – 29/11/2024; delivered expert lecture on FPGA Implementation of Counter Design, at SLIET, Longowal, 25/11/2024 – 29/11/2024; delivered expert lecture on Overview of HDL using Vivado Design Suite, at GNDEC, Ludhiana, 16/12/2024 – 21/12/2024; delivered expert lecture on Enhancing Energy Efficiency in VLSI Circuits through GA and WOA-based Optimization Techniques, at GNDEC, Ludhiana (in collaboration with NITTTR, Chandigarh), 14/07/2025 – 18/07/2025; and delivered expert lecture on Mini Projects using Raspberry Pi, at GNDEC, Ludhiana, 19/02/2025 – 05/03/2025.
 
 ## Placement Record
-# 2024 PASSOUT STUDENTS
+### 2024 PASSOUT STUDENTS
 
 | Sr. No. | URN | Name of Student | Company Name | Annual Salary (LPA) |
 |---------|------|----------------|--------------|----------------------|
@@ -339,7 +464,7 @@ Dr. Munish Rattan
 | 28 | 2004853 | Sachin Kumar | R.J. Solar | 5 |
 | 29 | 2004839 | Poonam Grover | Kion India Private Limited | 4 |
 
-# 2025 PASSOUT STUDENTS
+### 2025 PASSOUT STUDENTS
 
 | Sr. No. | URN | Name of Student | Name of Company | Salary |
 |---------|------|----------------|------------------|---------|
@@ -371,8 +496,8 @@ Dr. Munish Rattan
 | 35 | 2104412 | Pushpraj Dwevedi | CWEB Consultant, Mohali | 15k Per Month |
 | 36 | 2104453 | Satnam Singh | Fast Way | 30000 |
 
-# List of Consultancy by ECE Faculty  
-## Session 2024-2025
+## List of Consultancy by ECE Faculty  
+### Session 2024-2025
 
 | S. No. | Name of Faculty | Name of Project | Funding Agency | Category | Amount (Rupees) | Duration | Date of Starting & Completion | Remarks |
 |--------|------------------|------------------|----------------|----------|------------------|----------|-------------------------------|----------|
@@ -383,15 +508,15 @@ Dr. Munish Rattan
 **Note:** The total combined consultancy fund for all three projects is **Rs. 2,94,000**.
 
 
-# List of Fund
-# Session 2024-2025 – Faculty Projects / Grants
+## List of Fund
+### Session 2024-2025 – Faculty Projects / Grants
 
 | S. No. | Name of Faculty | Name of Project | Funding Agency | Category | Amount (Rupees) | Duration | Date of Starting & Completion | Remarks |
 |--------|----------------|----------------|----------------|----------|-----------------|----------|-------------------------------|---------|
 | 1 | Munish Rattan, Gurpurneet Kaur | Alumni Grant | GNDEC, Ludhiana | Grants | Rs 25,000 | One year | 2025 | Completed |
 ## Student's Corner  
 
-#### - Student's Achievements
+## - Student's Achievements
 
 ![Students](Images/HH1.png) ![Students](Images/HH2.png) ![Students](Images/HH3.png)  ![Students](Images/HH5.png)
 
@@ -409,7 +534,6 @@ Dr. Munish Rattan
 
 **Arnav Bhardwaj (URN: 2302860)** participated in *Guess a Graphy* at GNDEC and secured **2nd place**, 23-04-2025.  
 
-
 **Gurleen Kaur (URN: 2302872)** participated in *Future Design Hackathon 2025* (National Level) online and secured **1st place**, 02-05-2025.  
 
 **Gurjot Singh (URN: 2203718)** participated in *Inter College Hockey Tournament* at SVIET and secured **2nd place** while playing as a captain, 11-11-2025.  
@@ -422,134 +546,5 @@ Dr. Munish Rattan
 
 -----------------------------------------
 
-## IETE STUDENT FORUM
 
-- The events were organized under the guidance of:
-
--Prof. Shivmanmeet Singh (ISF Secretary)
-
------------------------------------------
-
-### Project Exhibition
-## Expert Lecture on PLC for Industrial Applications
-
-![Advisor Session (Machine)](Images/PLCposter.png)
-
-![Advisor Session (Machine)](Images/PLC1.png)
-
-![Advisor Session (Machine)](Images/PLC2.png)
-
-<div align="jutify"> The PLC workshop usually begins with an introductory session, where participants are briefed on the importance of PLCs in modern industrial processes on 14 Aug 2024. The session outlines how PLCs are used to automate various industrial operations, ranging from simple machine functions to complex processes involving multiple sensors and actuators. Participants are introduced to the basic architecture of PLCs, includingthe central processing unit (CPU), memory, input/output (I/O) modules, and communication interfaces.</div>
-
------------------------------------------
-### Workshop on Cyber Security with Shell Scripting Automation 
-
-![Advisor Session (Machine)](Images/CSposter.png)
-
-![Advisor Session (Machine)](Images/CS1.jpeg)
-
-![Advisor Session (Machine)](Images/CS2.jpeg)
-
-<div align="jutify">This event was organized on 3rd September 2024. The expert talk was given by Mr. Ansh Aneja and his team members. Sir and his team shared great knowledge on the given topic. He demonstrated multiple experimentations and projects related to the topic. This lecture was a really resourceful one. The experiments actually give an insightful experience on how things in the industry work.</div>
------------------------------------------
-### Hands on Experience on Soldering and Desoldering
-
-![Advisor Session (Machine)](Images/SDposter.png)
-
-![Advisor Session (Machine)](Images/SD1.jpeg)
-
-![Advisor Session (Machine)](Images/SD2.jpeg)
-
-- <div align="jutify"> In alignment with this vision, ISF hosted a knowledge-based event on October 11, 2024, featuring a lecture by Er. Shivmanmeet Singh, a distinguished professor from the Electronics and Communication Engineering Department. The session focused on the fundamentals of soldering and desoldering, providing students with comprehensive insights into these essential electronic assembly techniques. During the event, the professor delivered an in-depth lecture covering the principles, tools, and best practices of soldering and desoldering. Following the theoretical session, students had the opportunity to apply their learning through a hands-on demonstration, further reinforcing their understanding of the concepts. This event served as a valuable platform for students to gain practical exposure and enhance their technical proficiency in electronics manufacturing and repair.</div>
-
-----------------------------------------------
-### Digital Artistry
-
-![Advisor Session (Machine)](Images/DAposter.png)
-
-![Advisor Session (Machine)](Images/DA1.jpeg)
-
-![Advisor Session (Machine)](Images/DA2.jpeg)
-
-- <div align="jutify">This event was organized on 14th October 2024.In this event, team was created of two members each. Further; they were provided with a slogan. They had to present the slogan in the form of a poster. Also; they also had to present their poster and explain it and the presentation should be very appropriate to the slogan.</div>
-
-----------------------------------------------
-### Two Day Workshop : Digital Electronics and VHDL: From theory to Practice
-
-![Advisor Session (Machine)](Images/2DWposter.jpeg)
-
-![Advisor Session (Machine)](Images/2DW1.jpeg)
-
-![Advisor Session (Machine)](Images/2DW2.jpeg)
-
-- <div align="jutify">This event was organized on 28th and 29th October 2024. The Workshop Coordinator was Er. KuldeepakSingh . The expert talk was given by Dr. Gurjot Kaur Walia and Er. Kunwar Partap Singh. The topics that were covered were: Combinational Circuit Design and its real life applications, Signal Conversions : Analog and Digital Signals and Programming and Design using VHDL.</div>
-
----------------------------------------------
-### Poster Designing Competition in collab with Central Library
-
-![Advisor Session (Machine)](Images/PDposter.jpeg)
-
-![Advisor Session (Machine)](Images/PD1.jpeg)
-
-![Advisor Session (Machine)](Images/PD2.jpeg)
-
-- <div align="jutify">This event was held on 29th October 2024.This competition was held for students to make them familiar with the topics like How to access McGraw Hill ebooks, How to use DELNET, How to access EBSCO Journals, How to access IEEE Journals, How to search a book in WebOpac ; making the students familiar with the library resources. The students were awarded with three positions according to their posters.</div>
----------------------------------------------
-### 2 Day’s Workshop on 3D Printing : Peer to Peer Learning 
-
-![Advisor Session (Machine)](Images/3DPposter.jpeg)
-
-![Advisor Session (Machine)](Images/3DP1.jpeg)
-
-![Advisor Session (Machine)](Images/3DP2.jpeg)
-
-- <div align="jutify">This event was held on 11th and 13th November 2024. This workshop was coordinated by Dr. Gurpurneet Kaur and co-coordinated by Prof. Shivmanmeet Singh and the student demonstrator was Anmol Kumar Srivastav(Co-Convenor ISF).The event on day 1 was familiarizing the participants with the topic and day 2 highlighted actually printing in the 3D printing.</div>
----------------------------------------------
-### Technova
-
-![Advisor Session (Machine)](Images/TNposter.jpeg)
-
-![Advisor Session (Machine)](Images/TN1.jpg)
-
-![Advisor Session (Machine)](Images/TN2.jpg)
-
-- <div align="jutify">ISF organized a Techno event based on Project Exhibition named “Technova” on 25 November, 2024. During the event, participants had the opportunity to display their projects and were required to present and explain their work to both students and judges. This provided them with a platform to showcase their ideas, strengthen their communication skills, and receive constructive feedback from the judges. </div
-
------------------------------------------
-### Electrified Quizzer
-
-![Electrified Quizzer](Images/EQ.JPG)
-
-- <div align="jutify">ISF hosted a Fun-Techno event titled "Electrified Quizzers" on February 3, 2025. During this event, participants were grouped into teams of two. In the first round, the teams were asked to answer 30 electronics-based questions, with a time limitof 10 seconds per question. The top five teams were selected to proceed to the second round, where participants competed individually to solve 20 questions,again with a 10-second time limit per question. From this round, the top five students were chosen and invited to the final round, where they had to answer 10 questions. This event was designed to challenge students' knowledge and quick thinking while promoting a spirit of friendly competition.</div>
-
------------------------------------------
-### Workshop on Mobile chipset repairing
-
-![Mobile chipset repairing](Images/cs1.JPG)
-
-![Mobile chipset repairing](Images/cs2.JPG)
-
-<div align="jutify"> The IETE Students’ Forum (ISF) at Guru Nanak Dev Engineering College, Ludhiana,hosted a practical and informative workshop on Mobile Chipset Repairing and Software Automation on 11th April 2025.The session was expertly conducted by Mr. Harjot and Mr Abishek, specialists in mobile chipset repair and embedded systems. He provided an in-depth demonstration of chip-level repair techniques, showcasing the use of professional equipment such as digital microscopes, and diagnostic software. A significant portion of the workshop focused on the Apple A13 Bionic chipset, where participants examined its architecture, identified critical components on the motherboard, and explored rework methods commonly applied in modern smartphone servicing. In addition, the workshop covered practical aspects of soldering and desoldering components on the logic board, along with guidance on how iPhone servicing is professionally carried out, including common troubleshooting workflows and repair practices followed in industry labs. </div>
------------------------------------------
-### Guess-a-Graphy
-
-![Advisor Session (Guess-a-Graphy)](Images/gag2.JPG)
-![Advisor Session (Guess-a-Graphy)](Images/gag1.JPG)
-
-- <div align="jutify">ISF organise a fun event named” Guess-a-Graphy” based on general knowledge on 23 of April 2025.Guess-a-Graphy was a thrilling and intellectually engaging quiz competition that tested participants’ knowledge of the corporate world through three dynamic rounds.</div>
-
--------------‐-------------------------------
-### Visit to 5G Communication Lab
-
-![Advisor Session (Visit to 5G Communication Lab)](Images/PEC1.JPG)
-![Advisor Session (Visit to 5G Communication Lab)](Images/PEC2.JPG)
-![Advisor Session (Visit to 5G Communication Lab)](Images/PEC3.JPG)
-
-- <div align="jutify">The IETE Students’ Forum (ISF) organized a visit to Punjab Engineering College, Chandigarh, on March 26, 2025, to explore the 5G Communication Lab. The visit provided valuable insights into cutting-edge advancements in 5G technology and its applications .The visit to PEC , Chandigarh. It was aimed at enhancing our understanding of 5G technology and exploring the development of diverse bandwidth networks.</div>
-
--------------------------------------------
-
-
-
-
-**Editor: Dr. Preeti Pannu(Assistant Professor(ECE Department))**
+# **Editor: Dr. Preeti Pannu(Assistant Professor(ECE Department))**
