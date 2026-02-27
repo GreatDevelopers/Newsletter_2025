@@ -337,7 +337,11 @@ Dr. Munish Rattan
 ---------------------------------------------
 ### Technova
 
-![Advisor Session (Wireless Communication)](Images/WC2.jpg)
+![Advisor Session (Machine)](Images/TNposter.jpeg)
+
+![Advisor Session (Machine)](Images/TN1.jpg)
+
+![Advisor Session (Machine)](Images/TN2.jpg)
 
 - <div align="jutify">ISF organized a Techno event based on Project Exhibition named “Technova” on 25 November, 2024. During the event, participants had the opportunity to display their projects and were required to present and explain their work to both students and judges. This provided them with a platform to showcase their ideas, strengthen their communication skills, and receive constructive feedback from the judges. </div
 
@@ -374,13 +378,8 @@ Dr. Munish Rattan
 - <div align="jutify">The IETE Students’ Forum (ISF) organized a visit to Punjab Engineering College, Chandigarh, on March 26, 2025, to explore the 5G Communication Lab. The visit provided valuable insights into cutting-edge advancements in 5G technology and its applications .The visit to PEC , Chandigarh. It was aimed at enhancing our understanding of 5G technology and exploring the development of diverse bandwidth networks.</div>
 
 -------------------------------------------
-### TechNova- Project Exhibition
 
-![Advisor Session (Machine)](Images/TNposter.jpeg)
 
-![Advisor Session (Machine)](Images/TN1.jpg)
-
-![Advisor Session (Machine)](Images/TN2.jpg)
 
 
 **Editor: Dr. Preeti Pannu(Assistant Professor(ECE Department))**
