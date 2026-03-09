@@ -287,49 +287,31 @@ During the event, Prof. Khana also discussed future joint ventures with NPTEL ai
 
 </p>
 
-## 1. VEHICLE LAUNCH EVENT:
+## Student Achievements
 
-<p align=justify>
-Team GENSONIC of “Society of Automotive Engineer’s Collegiate Club” organized “VEHICLE LAUNCH EVENT” on 6th February, 2023 to aware and encourages the GNDEC students about such initiatives and participation of GNDEC teams among engineering based competitions held at national level.
+<p style="text-align:justify;">
+
+Students of the Mechanical and Production Engineering Department participated in BAJA SAE INDIA and secured AIR 2 in the Cost Event, bringing pride to the institution. This achievement reflects the dedication, hard work, and teamwork demonstrated by the students throughout their BAJA journey. The team sincerely acknowledges the constant support, guidance, and encouragement provided by the faculty mentors and well-wishers. Their valuable inputs and unwavering belief in the team boosted the confidence of the students and motivated them to perform at their best. The team expresses its heartfelt gratitude for the mentorship and support that played a crucial role in achieving this remarkable accomplishment.
+
 </p>
 
-![PSB](Images/VL1.png)
-![PSB](Images/VL2.png)
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border:none;">
+<tr>
 
-## 2. BAJA SAEINDIA 2023: 
- 
-<p align=justify>
-Team GENSONIC of “Society of Automotive Engineer’s Collegiate Club” participated in the BAJA SAEINDIA 2023 off-road racing competition from 14th February, 2023 to 19th February, 2023 and bagged the 1st Position in Punjab, Secured AIR 5th in Go Green Event and became the 1st New Team to clear Technical Inspection at the event.
-</p>
+<td style="border:none;">
+<img src="https://raw.githubusercontent.com/premsinghchopra/Newsletter_2025/main/Content/ME_PE/Images/Baja%201.jpeg" width="300" height="250">
+</td>
 
-![PSB](Images/BS1.png)
-![PSB](Images/BS2.png)
+<td style="border:none;">
+<img src="https://raw.githubusercontent.com/premsinghchopra/Newsletter_2025/main/Content/ME_PE/Images/Baja%202.jpeg" width="300" height="250">
+</td>
 
-## 3. BAJA SAEINDIA 2024: 
-<p align=justify>
-Team GENSONIC of “Society of Automotive Engineer’s Collegiate Club” participated in the BAJA SAEINDIA 2024 off-road racing competition from 9th Junary, 2024 to 14th January, 2024 and bagged the 2nd Position Overall in North India. At this event, Prof. Sukhjeet Singh, Asistant Professor of Mech. & Prod. Engg Dept. was awarded the Dronacharya Award. 
-</p>
+<td style="border:none;">
+<img src="https://raw.githubusercontent.com/premsinghchopra/Newsletter_2025/main/Content/ME_PE/Images/Baja%203.jpeg" width="300" height="250">
+</td>
 
-Team GENSONIC secured the following North India Rankings :-
-1st in Cost Event.
-2nd in Endurance. 
-2nd in Acceleration Simulation.
-5th in Sales Event.
-6th in Design Event.
-
-![PSB](Images/BS3.png)
-![PSB](Images/BS4.png)
-![PSB](Images/BS5.png)
-
-## 4. VICTORY CELEBRATION EVENT: 
- 
-<p align=justify>
-Team GENSONIC of “Society of Automotive Engineer’s Collegiate Club” organized Victory Celebration Event on 8th February, 2024 to honour the Team’s Sponsors and encourage the GNDEC students about such initiatives and participation of GNDEC teams among engineering based competitions held at national level.
-</p>
-
-![PSB](Images/VCE1.png)
-![PSB](Images/VCE2.png)
-![PSB](Images/VCE3.png)
+</tr>
+</table>
 
 
 
