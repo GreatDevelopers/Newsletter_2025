@@ -36,11 +36,19 @@ outcomes of the Department.
 
 ### 🏆 Outstanding Department Award
 
+<img src="https://github.com/premsinghchopra/Newsletter_2025/blob/main/Content/ME_PE/Images/A1.jpeg" width="400" align="right" style="margin-left:15px;">
+
+<p align="justify">
+  
 **Department of Mechanical & Production Engineering** received the **Outstanding Department Award** on the occasion of the **69th Foundation Day of Guru Nanak Dev Engineering College (GNDEC), Ludhiana** on **8 April 2025**.
+</p>
 
 The award was presented by the **GNDEC Alumni President** in the presence of the **Principal, GNDEC Ludhiana**, recognizing the department's excellence in academics, research, and overall contributions.
 
-## Faculty Achievements  
+
+<br clear="right">
+
+## FACULTY ACHIEVEMENTS 
 
 - **Dr. Sehijpal Singh**  awarded World's Top 2% Scientist for 2025 by Stanford University for first time.
 - **Dr. Raman Kumar** awarded World's Top 2% Scientist for 2023 by Stanford University for third time. 
@@ -50,17 +58,7 @@ The award was presented by the **GNDEC Alumni President** in the presence of the
 -	**Dr. Gulraj Singh**  has completed his Ph.D. in Mechanical Engineering from NIT, Uttarakhand.
 -	**Dr. Chamkur Jindal** has completed his Ph.D. in Mechanical Engineering from Punjab Technical University, Jalandhar  
 
-## Patent Granted
-
-- Patent No.459333 dated: 15th May 2019 awarded on 16th October 2023 “HIGH-TEMPERATURE OXIDATION AND EROSION RESISTANT ALLOY-718/ AL2O3 COMPOSITE COATINGS” Patentee: 1. Dr. Hitesh Vasudev 2. Dr. Lalit Thakur 3. **Dr. Harmeet Singh** 4. Dr. Amit Bansa
-
-  ![PSB](Images/HSP.png)
-  
--	Patent Number- 537875 Dated 28/04/2021 awarded on 14/05/2024“INTERNAL SWAGING MACHINE” Patentee : 1. **Dr. Gulvir Singh**,  **Dr. Jatinder Kapoor** and **Dr. Sehijpal Singh**
-  
- ![PSB](Images/GSP.jpg)
-
-## Publications  
+## PUBLICATIONS  
 
 1. **Ranjan, N., Farwaha, H.S.** (2026). Developments in Additive Manufacturing Techniques for Biomedical Scaffolds/Implants for Orthopaedic Applications: A Review. *Biomedical Materials & Devices*, 4, 273–286. https://doi.org/10.1007/s44174-025-00292-7  
 
@@ -186,9 +184,9 @@ The award was presented by the **GNDEC Alumni President** in the presence of the
 ## Industry Institute Meet Organized
 
 <p align=justify>
-This meet was organized by Department of Mech. & Prod. Engg. and Industrial Relation Cell, GNDEC. The objective of the meet was to share expertise and experience between the industry and Institute; Providing skill and expertise to the students to be successful in the current job market. The Prominent industrialists present in the meet were Mr. Jagbir Singh Sokhi, President Sewing Machine Development Cell; Mr. Narinder Bhamra, President Fasteners Manufacturers Assoc. of (India), Mr. Gurpreet Singh Kalhon, Senior Vice president Auto Parts Manufacturers (India); Mr. Harsimerjit Singh, President United Cycle Parts, Ludhiana; Mr. Satnam Singh Makkar, Vice President, United Cycle Parts, Ludhiana. Mr. Yashpal Gosian, President; Ludhiana Foundery Culsor; Mr. Kanwalpreet Singh, President Steel Shuttering, Ludhiana; Mr. Ashok Midha, MD Shubham Electrical; Mr. Amrik Singh, Director; NEXO Industries; Mr. Arshdeep Singh, Director, Pioneer Cranes; Mr. Sunil Bansal, MD Compac Technology India, Mr. Kulwinder Singh, MD, Barnala Engineers; Mr. Suman Singh, Arora Steels; 
 
-Prof. J.S. Grewal and Dr. Sehijpal Singh (Principal, GNDEC) welcomed the participants. Dr. Jatinder Kapoor, Dean Industrial Relation Cell, highlighted the objectives of the meet. Dr. Harmeet Singh (HOD MPE) proposed the vote of Thanks.
+In collaboration with Blue Star India, a skill development center was inaugurated in mechanical and Production Engineering Department on 20th January, 2026.  Er. Akshat Sharma, Assistant Vice President, Blue Star Ltd. India was chief gust for the inauguration ceremony. This is the first such center in North India. This facility will be utilized for training of the staff and students in the field of refrigeration and Air conditioning.
+Prof. Harmeet Singh (HOD MPE) and Dr. Sehijpal Singh (Principal, GNDEC) welcomed the participants. Prof. Lakhvir Singh Khana highlighted the objectives of the skill development center. Prof. Davinder Singh Bhogal proposed the vote of Thanks. 
 
 </p>
 
