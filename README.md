@@ -15,11 +15,11 @@
 </p>
 
 <p align="center">
-<a href="README.md"><b>Home</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="Content/CoverPage/Contents.md"><b>Contents</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="Content/EditorialBoard/EditorialBoard.md"><b>Editorial Board</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="./"><b>Home</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="Content/CoverPage/Contents"><b>Contents</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="Content/EditorialBoard/EditorialBoard"><b>Editorial Board</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="https://gndec.ac.in/"><b>GNDEC Website</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="Content/CoverPage/Contact.md"><b>Contact</b></a>
+<a href="Content/CoverPage/Contact"><b>Contact</b></a>
 </p>
 
 <p align="center">
