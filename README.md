@@ -1,3 +1,8 @@
+---
+layout: default
+title: GNDEC Times 2025
+---
+
 <p align="center">
 <img src="Content/CoverPage/Images/gne_new_logo.png" width="120">
 </p>
@@ -7,6 +12,7 @@
 <p align="center">
 <b>Annual Newsletter 2025</b>
 </p>
+
 <p align="center">
 <img src="https://img.shields.io/badge/Volume-13-003366?style=flat-square">
 <img src="https://img.shields.io/badge/Year-2025-444444?style=flat-square">
