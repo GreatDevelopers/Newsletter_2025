@@ -110,9 +110,5 @@ HoD, Civil Engineering Department
 
 - Consultancy Cell achieved the highest revenue of ₹545 Lakh.  
  
-## Photo Gallery  
 
-## Regenerative Design: Transcending Sustainability  
-
-![Regenerative Design](Images/Regenerative_Design.jpg)
 
