@@ -1,8 +1,3 @@
----
-layout: default
-title: GNDEC Times 2025
----
-
 <p align="center">
 <img src="Content/CoverPage/Images/gne_new_logo.png" width="120">
 </p>
